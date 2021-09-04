@@ -1,6 +1,4 @@
-#Welcome to My Contacts Book!
-
-View the live website here: https://my-contacts-book.vercel.app/
+# Welcome to My Contacts Book!
 
 View the live website here: https://my-contacts-book.vercel.app/
 
